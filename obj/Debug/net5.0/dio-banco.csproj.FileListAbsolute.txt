@@ -1,0 +1,16 @@
+C:\Users\willg\Desktop\DIO\Localiza\dio-banco\bin\Debug\net5.0\dio-banco.exe
+C:\Users\willg\Desktop\DIO\Localiza\dio-banco\bin\Debug\net5.0\dio-banco.deps.json
+C:\Users\willg\Desktop\DIO\Localiza\dio-banco\bin\Debug\net5.0\dio-banco.runtimeconfig.json
+C:\Users\willg\Desktop\DIO\Localiza\dio-banco\bin\Debug\net5.0\dio-banco.runtimeconfig.dev.json
+C:\Users\willg\Desktop\DIO\Localiza\dio-banco\bin\Debug\net5.0\dio-banco.dll
+C:\Users\willg\Desktop\DIO\Localiza\dio-banco\bin\Debug\net5.0\ref\dio-banco.dll
+C:\Users\willg\Desktop\DIO\Localiza\dio-banco\bin\Debug\net5.0\dio-banco.pdb
+C:\Users\willg\Desktop\DIO\Localiza\dio-banco\obj\Debug\net5.0\dio-banco.csprojAssemblyReference.cache
+C:\Users\willg\Desktop\DIO\Localiza\dio-banco\obj\Debug\net5.0\dio-banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willg\Desktop\DIO\Localiza\dio-banco\obj\Debug\net5.0\dio-banco.AssemblyInfoInputs.cache
+C:\Users\willg\Desktop\DIO\Localiza\dio-banco\obj\Debug\net5.0\dio-banco.AssemblyInfo.cs
+C:\Users\willg\Desktop\DIO\Localiza\dio-banco\obj\Debug\net5.0\dio-banco.csproj.CoreCompileInputs.cache
+C:\Users\willg\Desktop\DIO\Localiza\dio-banco\obj\Debug\net5.0\dio-banco.dll
+C:\Users\willg\Desktop\DIO\Localiza\dio-banco\obj\Debug\net5.0\ref\dio-banco.dll
+C:\Users\willg\Desktop\DIO\Localiza\dio-banco\obj\Debug\net5.0\dio-banco.pdb
+C:\Users\willg\Desktop\DIO\Localiza\dio-banco\obj\Debug\net5.0\dio-banco.genruntimeconfig.cache
