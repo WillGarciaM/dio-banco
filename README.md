@@ -1,6 +1,10 @@
 # Digital Innovation One - Prática .NET
 
-Este é um código editado para fins educacionais.
+### Este é um código editado para fins educacionais.
+
+## Objetivo
+Uma pequena implementação de um banco fictício, com o objetivo de fixação de paradigmas básicos de POO.
+
 
 ## Editor
 
